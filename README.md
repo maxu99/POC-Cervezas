@@ -8,8 +8,11 @@
 
 4)
 mvn clean: limpia todas las clases compiladas del proyecto.
+
 mvn compile: compila el proyecto
+
 mvn package: empaqueta el proyecto (si es un proyecto java simple, genera un jar)
+
 mvn install: instala el artefacto en el repositorio local
 
 5)
